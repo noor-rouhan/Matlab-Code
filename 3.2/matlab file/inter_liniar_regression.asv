@@ -1,0 +1,13 @@
+close all;
+clear all;
+clc;
+x = [1 2 3 4 5 6 7]; y = [.5 2.5 2 4 3.5 6 5.5];
+n = length(x);
+A = [n ]
+plot(x,y,'o');
+hold on;
+ym = ao + a1.*x;
+plot(x,ym);
+
+    
+    
